@@ -1,25 +1,21 @@
 ---
 layout: page
-title: About the Theme
+title: About Me
 tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
+modified: 2015-06-15T21:51:25
+comments: false
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: alex-placename.jpg
+  credit: Sophie Bowdler Photography
+  creditlink: http://www.sbowdlerphotography.co.uk/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Hi, I'm Alex and I work at <a href="https://wearebase.com">Base</a> near the beach in Bournemouth, UK.
+I'm a founding member of the <a href="http://www.phpdorset.co.uk">PHP Dorset User Group</a> and an
+organiser of the <a href="http://phpsouthcoast.co.uk">PHP South Coast Conference</a>. In my spare time
+I teach the saxophone and play the baritone saxophone with <a href="https://www.inthepinkbigband.co.uk">In the Pink Big Band</a>.
+I also enjoy live sound engineering and recording.
 
-## Minimal Mistakes is all about:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+I specialise in working with open source technologies and I'm an advocate for clean code.
+My skill set includes PHP &amp; the Symfony Stack, MySQL, MongoDB, Jenkins, Ansible, Linux &amp; Security.
